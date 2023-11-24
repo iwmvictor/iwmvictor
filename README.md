@@ -13,7 +13,6 @@
 🌐 [iwmvictor.com](https://iwmvictor.netlify.com)
 [![Instagram](./assets/instagram.svg)](https://www.instagram.com/iwmvictor)
 [![Twitter](./assets/twitter.svg)](https://www.twitter.com/@iwmvictor)
-[![YouTube](./assets/youtube.svg)](https://www.youtube.com/@wearemeyvn)
 [![Pinterest](./assets/pinterest.svg)](https://pin.it/70aDSJb)
 [![WhatsApp](./assets/whatsapp.svg)](https://wa.link/1mhm1w)
 
@@ -23,3 +22,4 @@
 
 
 ####### Let's connect, collaborate, and bring exceptional ideas to fruition!
+[![YouTube](./assets/youtube.svg)](https://www.youtube.com/@wearemeyvn)
