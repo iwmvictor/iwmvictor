@@ -1,4 +1,4 @@
-### ✨ Who am I?
+# ✨ Who am I?
 
 👋 Hello, I'm Victor Isingizwe Munezero, a dedicated college student immersed in the world of computer and software engineering. My passion lies in crafting elegant and efficient code to bring innovative ideas to life.
 
@@ -9,8 +9,6 @@
 
 #### 🔗 Connect with Me
 
-📧 Email: isingizwemunezerovictor5@gmail.com
-🌐 [iwmvictor.com](https://iwmvictor.netlify.com)
 [![Instagram](./assets/instagram.svg)](https://www.instagram.com/iwmvictor)
 [![Twitter](./assets/twitter.svg)](https://www.twitter.com/@iwmvictor)
 [![Pinterest](./assets/pinterest.svg)](https://pin.it/70aDSJb)
@@ -22,4 +20,9 @@
 
 
 #### Let's connect, collaborate, and bring exceptional ideas to fruition!
+
+📧 Email: isingizwemunezerovictor5@gmail.com
+
+🌐 [iwmvictor.com](https://iwmvictor.netlify.com)
+
 [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@wearemeyvn)
