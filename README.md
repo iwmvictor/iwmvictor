@@ -9,8 +9,8 @@
 
 #### 🔗 Connect with Me
 
-📧 Email: mail:isingizwemunezerovictor5@gmail.com
-🌐 - [iwmvictor.com](https://iwmvictor.netlify.com)
+📧 Email: isingizwemunezerovictor5@gmail.com
+🌐 [iwmvictor.com](https://iwmvictor.netlify.com)
 [![Instagram](./assets/instagram.svg)](https://www.instagram.com/iwmvictor)
 [![Twitter](./assets/twitter.svg)](https://www.twitter.com/@iwmvictor)
 [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@wearemeyvn)
