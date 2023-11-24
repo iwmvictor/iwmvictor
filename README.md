@@ -21,5 +21,5 @@
 ![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
 
 
-####### Let's connect, collaborate, and bring exceptional ideas to fruition!
+#### Let's connect, collaborate, and bring exceptional ideas to fruition!
 [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@wearemeyvn)
