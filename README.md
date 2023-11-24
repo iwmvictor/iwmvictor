@@ -19,7 +19,7 @@
 
 #### 💻 Technologies that I use
 
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
 
 
 ####### Let's connect, collaborate, and bring exceptional ideas to fruition!
