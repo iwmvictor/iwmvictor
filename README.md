@@ -16,7 +16,7 @@
 <hr>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Junior+Software+Developer;Graphic+Designer;UI+UX+Designer;Website+Designer+and+Developer;Mobile+App+Developer;Iwmvictor+...&center=true"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Software+Developer;Graphic+Designer;UI+UX+Designer;Website+Designer+and+Developer;Mobile+App+Developer;Iwmvictor+...&center=true"></a>
 </p>
 
 ```
