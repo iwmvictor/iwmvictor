@@ -53,7 +53,9 @@
 <a href="https://twitter.com/iwmvictor" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Iwmvictor" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/iwmvictor/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Iwmvictor" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://wa.link/1mhm1w" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/whatsapp.png" alt="Iwmvictor" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="www.pinterest.com/iwmvictor" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/pinterest.png" alt="Iwmvictor" height="50" width="50" /></a>
+<a href="www.pinterest.com/iwmvictor" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/pinterest.png" alt="Iwmvictor" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.behance.net/iwmvictor" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/behance.png" alt="Iwmvictor" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="www.youtube.com/@iwmvictor" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" alt="Iwmvictor" height="50" width="50" /></a>
 </p>
 
 <hr>
