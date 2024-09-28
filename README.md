@@ -27,29 +27,33 @@
 - 📫 How to reach me: [iwmvik@gmail.com](mailto:iwmvik@gmail.com).
 ```
 
+<table>
+  <tr>
+    <td>
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=iwmvictor&theme=gotham" alt="Iwmvictor" />
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=iwmvictor&show_icons=true&theme=gotham" alt="Iwmvictor" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="Iwmvictor" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwmvictor&theme=gotham&langs_count=4" />
+    </td>
+  </tr>
+</table>
 
-|-----------|-------------|-------------|
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=iwmvictor&theme=gotham" alt="Iwmvictor" />|<img src="https://github-readme-stats.vercel.app/api?username=iwmvictor&show_icons=true&theme=gotham" alt="Iwmvictor" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwmvictor&theme=gotham& alt="Iwmvictor" langs_count=4"/>|
-|-----------|-------------|
+<br><br>
 
+<hr>
 
+<h3 align="center">Let's connect, collaborate, and bring exceptional ideas to fruition!</h3>
+<p align="center">
+<a href="https://instagram.com/iwmvictor" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="Iwmvictor" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/iwmvictor" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Iwmvictor" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/iwmvictor/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Iwmvictor" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wa.link/1mhm1w" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/whatsapp.png" alt="Iwmvictor" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="www.pinterest.com/iwmvictor" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/pinterest.png" alt="Iwmvictor" height="50" width="50" /></a>
+</p>
 
-
-#### 🔗 Connect with Me
-
-[![Instagram](./assets/instagram.svg)](https://www.instagram.com/iwmvictor)
-[![Twitter](./assets/twitter.svg)](https://www.twitter.com/@iwmvictor)
-[![Pinterest](./assets/pinterest.svg)](https://pin.it/70aDSJb)
-[![WhatsApp](./assets/whatsapp.svg)](https://wa.link/1mhm1w)
-
-#### 💼 Check Out My Projects
-
-[![GitHub Projects](./assets/github.svg)](https://github.com/iwmvictor)
-
-#### Let's connect, collaborate, and bring exceptional ideas to fruition!
-
-📧 Email: isingizwemunezerovictor5@gmail.com
-
-🌐 [iwmvictor.com](https://iwmvictor.netlify.com)
-
-[![YouTube](./assets/youtube.svg)](https://www.youtube.com/@wearemeyvn)
+<hr>
