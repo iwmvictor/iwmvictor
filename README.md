@@ -1,4 +1,4 @@
-<img src="./assets/banner.jpg">
+/*<img src="./assets/banner.jpg">*/
 
 <div align="center">
   <a href="https://www.youtube.com/@iwmvictor?sub_confirmation=1">
@@ -16,7 +16,7 @@
 <hr>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Software+Developer;Graphic+Designer;UI+UX+Designer;Website+Designer+and+Developer;Mobile+App+Developer;Iwmvictor+...&center=true"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Software+Developer;Product+Designer;UI+UX+Designer;Website+Designer+and+Developer;Mobile+App+Developer;Iwmvictor+...&center=true"></a>
 </p>
 
 ```
@@ -24,7 +24,7 @@
 - 👀 I’m final year college student majoring computer & software engineering.
 - 🌱 I’m currently learning everything that comes in my way, but particularly Computers. 😅
 - 💞️ My passion lies in crafting elegant and efficient codes to bring innovative ideas to life.
-- 📫 How to reach me: [iwmvik@gmail.com](mailto:iwmvik@gmail.com).
+- 📫 How to reach me: iwmvik@gmail.com.
 ```
 
 <table>
@@ -35,7 +35,7 @@
   </tr>
    <tr>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=iwmvictor&show_icons=true&theme=gotham" alt="Iwmvictor" />
+      <img height="195px" align="left" src="https://github-readme-stats.vercel.app/api?username=iwmvictor&show_icons=true&theme=gotham" alt="Iwmvictor" />
     </td>
     <td>
       <img height="195px" align="right" alt="Iwmvictor" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwmvictor&theme=gotham&langs_count=4" />
@@ -44,6 +44,9 @@
 </table>
 
 <br><br>
+---
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=iwmvictor&theme=gotham" alt="iwmvictor" />
 
 <hr>
 
