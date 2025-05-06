@@ -1,4 +1,4 @@
-/*<img src="./assets/banner.jpg">*/
+<img src="./assets/banner.jpg">
 
 <div align="center">
   <a href="https://www.youtube.com/@iwmvictor?sub_confirmation=1">
@@ -46,8 +46,8 @@
 <br><br>
 ---
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/iwmvictor/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/iwmvictor/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 <hr>
