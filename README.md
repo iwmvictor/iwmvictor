@@ -1,4 +1,4 @@
-<img src="./assets/banner.jpg">
+<!-- <img src="./assets/banner.jpg">
 
 <div align="center">
   <a href="https://www.youtube.com/@iwmvictor?sub_confirmation=1">
@@ -61,4 +61,19 @@
 <a href="www.youtube.com/@iwmvictor" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" alt="Iwmvictor" height="50" width="50" /></a>
 </p>
 
-<hr>
+<hr> -->
+
+
+# Hi, I’m Victor 👋
+
+Product Designer & Developer focused on building thoughtful, scalable web products.
+
+I work across **design and code** — from Figma to HTML, CSS, JavaScript — and use AI tools to move faster without sacrificing quality.
+
+**What I care about**
+- Clear UI & strong systems
+- Clean, maintainable code
+- Building products that actually ship
+
+📫 Reach me: iwmvik@gmail.com  
+🔗 Portfolio / Work: [iwmvictor](https://iwmvictor.netlify.app)
